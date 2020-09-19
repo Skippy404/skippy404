@@ -2,7 +2,7 @@
 
 Life moto: If its not written in C, its bloat.
 
-[Workspace](assets/setup.png)
+![Workspace](assets/setup.png)
 <!--
 **Skippy404/skippy404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
