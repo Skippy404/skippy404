@@ -1,6 +1,10 @@
 ### About me :D
 
-Life moto: If its not written in C, its bloat.
+If its not written in C, its bloat.
+
+* Curriculum Vitae:
+	* `$ man <(curl -s http://yggpi.co.za/skippy.1) # View as man page`
+	* `$ man -t <(curl yggpi.co.za/skippy.1) | ps2pdf - - > CurriculumVitae.pdf # Render pdf`
 
 ![Workspace](assets/setup.png)
 <!--
