@@ -1,11 +1,9 @@
-### About me :D
-
 If its not written in C, its bloat.
 
 * Curriculum Vitae:
 	* `$ man <(curl -s https://skiqqy.xyz/skiqqy.1) # View as man page`
 	* `$ man -t <(curl https://skiqqy.xyz/skiqqy.1) | ps2pdf - - > CurriculumVitae.pdf # Render pdf`
-
+	
 ![Workspace](assets/setup.png)
 <!--
 **Skippy404/skippy404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
