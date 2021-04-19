@@ -1,3 +1,8 @@
+## Info
+
+Please note that I am in the process of migrating to [sourcehut](https://sr.ht/~skiqqy),
+the repos here serve only as mirrors.
+
 ### About me :D
 
 If its not written in C, its bloat.
@@ -7,17 +12,3 @@ If its not written in C, its bloat.
 	* `$ man -t <(curl https://skiqqy.xyz/skiqqy.1) | ps2pdf - - > CurriculumVitae.pdf # Render pdf`
 
 ![Workspace](assets/setup.png)
-<!--
-**Skippy404/skippy404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
